@@ -1,0 +1,67 @@
+body{
+    background-color: black;
+    color: white;
+}
+h2{
+    text-align: center;
+    margin: 60px;
+}
+.card_body{
+    color: white;
+}   
+.card_body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+header{
+    text-align: center;
+    margin: 0px;
+    background-color: white;
+    width: 100%;
+   
+}
+header a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    padding: 15px;
+    font-size: 30px;
+}
+td{
+    text-align: center;
+    width: 200px ;
+    border: 1px white solid;
+    padding: 10px;
+}
+.card_body tr{
+    background-color: white;
+    color: black;
+}
+.edit{
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+.delete{
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    padding: 5px;
+    border-radius: 5px;
+}
+footer{
+    text-align: center;
+    margin: 0px;
+    background-color: white;
+    width: 100%;
+   
+}
+footer p{
+    color: black;
+    font-weight: bold;
+    padding: 10px;
+    font-size: 22px;
+}
